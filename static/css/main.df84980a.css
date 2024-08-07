@@ -1,0 +1,2 @@
+.techno-animation{animation:moveBackground 2s linear infinite;background:url(https://assets.codepen.io/13471/squares.svg) repeat;height:100%;left:0;opacity:.1;position:absolute;top:0;width:100%;z-index:0}@keyframes moveBackground{0%{transform:translate(0)}to{transform:translate(-100%,-100%)}}body{background:linear-gradient(135deg,#6a11ce,#2575fc);color:#fff;font-family:Roboto Mono,monospace;margin:0}
+/*# sourceMappingURL=main.df84980a.css.map*/

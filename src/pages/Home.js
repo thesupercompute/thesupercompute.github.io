@@ -27,7 +27,7 @@ const Home = () => {
         Leveraging AI to create products that make sense and make people's lives easier.
       </Typography>
       <Box mt={3}>
-        <Button variant="contained" color="primary" href="/notes">
+        <Button variant="contained" color="primary" href="#/notes">
           Explore Our Notes App
         </Button>
       </Box>

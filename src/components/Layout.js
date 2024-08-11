@@ -25,7 +25,7 @@ const Background = styled('div')({
   padding: '20px 0',
   color: '#fff',
   overflow: 'hidden',
-  background: 'linear-gradient(135deg, #6a11cb, #2575fc)',
+  background: 'linear-gradient(135deg, #6a11cb, #770909)',
 });
 
 const Logo = styled(Typography)({

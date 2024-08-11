@@ -26,6 +26,11 @@ const Notes = () => {
       <Typography variant="h6" gutterBottom>
         Efficiently take notes with AI-powered handwriting recognition and math problem solving.
       </Typography>
+      <br>
+      </br>
+      <Typography variant="h6" gutterBottom>
+        <b>Coming out soon</b>
+      </Typography>
     </AnimatedBox>
   );
 };

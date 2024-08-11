@@ -44,7 +44,7 @@ const Layout = ({ children }) => {
                   TheSuperCompute
                 </Logo>
                 <Button className="text-element" color="inherit" href="/">Home</Button>
-                <Button className="text-element" color="inherit" href="/notes">Notes</Button>
+                <Button className="text-element" color="inherit" href="#/notes">Notes</Button>
               </Toolbar>
             </AppBar>
             <Container>
